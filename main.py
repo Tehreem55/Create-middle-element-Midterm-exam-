@@ -8,4 +8,4 @@ def middle_element(lst):
     return average
     
 
-print(middle_element([5, 2, -10, -4, 4, 5,]))
+print(middle_element([5, 2, -10, -4, 4, 5])) #This should print -7.0
